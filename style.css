@@ -169,7 +169,7 @@ ul.navbar-nav li.nav-item a.nav-link {
 }
 
 .progress-bar-js {
-    width: 70%;
+    width: 90%;
     background-color: purple;
     height: 16px;  
 }
@@ -201,7 +201,7 @@ ul.navbar-nav li.nav-item a.nav-link {
 }
 
 .progress-bar-python {
-    width: 75%;
+    width: 95%;
     background-color: peru;
     height: 16px;  
 }
@@ -217,7 +217,7 @@ ul.navbar-nav li.nav-item a.nav-link {
 }
 
 .progress-bar-mango {
-    width: 89%;
+    width: 80%;
     background-color: slateblue;
     height: 16px;  
 }
@@ -233,7 +233,7 @@ ul.navbar-nav li.nav-item a.nav-link {
 }
 
 .progress-bar-node {
-    width: 60%;
+    width: 95%;
     background-color: salmon;
     height: 16px;  
 }
@@ -249,7 +249,7 @@ ul.navbar-nav li.nav-item a.nav-link {
 }
 
 .progress-bar-ang {
-    width: 65%;
+    width: 95%;
     background-color: black;
     height: 16px;  
 }
